@@ -28,6 +28,11 @@ class FlightVehicle(Vehicle):
     pass
 
 
+class Airplane(FlightVehicle):
+    # Base Class Vehicle
+    pass
+
+
 class GroundVehicle(Vehicle):
     # Base Class Vehicle
     pass
